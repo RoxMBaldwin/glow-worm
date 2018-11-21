@@ -1,0 +1,22 @@
+pos onfocus	http://www.lequipe.fr
+pos onfocus	http://www.ladepeche.fr
+null onfocus	http://www.leprogres.fr
+pos onfocus	http://www.lepoint.fr
+pos onfocus	http://www.letudiant.fr
+pos chartbeat	http://searchengineland.com
+pos chartbeat	http://www.sanluisobispo.com
+pos chartbeat	http://www.journal-news.com
+pos chartbeat	http://www.sanduskyregister.com
+pos chartbeat	http://www.islandpacket.com
+pos chartbeat	http://www.seattlemet.com
+pos chartbeat	http://www.smh.com.au
+pos chartbeat	http://www.statecollege.com
+pos chartbeat	http://www.sbsun.com
+pos chartbeat	http://press.affinity.serif.com
+pos chartbeat	http://www.statesmanjournal.com
+pos chartbeat	http://www.salemnews.com
+pos chartbeat	http://www.johnsoncitypress.com
+pos moat	http://www.rasmussenreports.com
+pos moat	http://www.democratandchronicle.com
+false neg moat	http://www.roadbikereview.com
+pos moat	http://www.huffingtonpost.ca

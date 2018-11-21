@@ -1,0 +1,7 @@
+killerfrogs	http://killerfrogs.com
+20minutes	http://www.20minutes.fr
+myrtlebeach	http://www.myrtlebeachonline.com
+ibitimes	http://www.ibtimes.com
+homernews	http://www.homernews.com
+rox	http://spacelegs.blogspot.com
+false pos onfocus	http://www.letudiant.fr
